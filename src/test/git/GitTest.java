@@ -7,4 +7,7 @@ public class GitTest {
 		System.out.println("this is class practice");
 	}
 
+	public void practice() {
+		System.out.println("Test Two On Control Commit");
+	}
 }
